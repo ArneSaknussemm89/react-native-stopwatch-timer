@@ -1,5 +1,9 @@
 ## React Native Stopwatch Timer
 
+*Forked from michaeljstevens for adjustments needed for a project.
+Read below for the original instructions.*
+
+
 A React Native component that provides a stopwatch and timer.
 
 <img width="400px" src="./docs/screenshots/Screen Shot 2016-12-03 at 12.54.31 PM.png" />
